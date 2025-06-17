@@ -37,3 +37,7 @@ dotnet --version
 ```bash
 dotnet --info
 ```
+
+```bash
+dotnet --list-sdks
+```
