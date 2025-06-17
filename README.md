@@ -69,3 +69,8 @@ dotnet run
 ```bash
 dotnet watch run
 ```
+
+## Docs
+
+- [.NET 9.0 (Linux、macOS、Windows) のダウンロード | .NET](https://dotnet.microsoft.com/ja-jp/download/dotnet/9.0)
+- [Introducing support for SLNX, a new, simpler solution file format in the .NET CLI - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-slnx-support-dotnet-cli/?hide_banner=true)
