@@ -60,6 +60,12 @@ dotnet new gitignore
 dotnet new globaljson
 ```
 
+### Sln
+
+```bash
+dotnet sln migrate
+```
+
 ### Run
 
 ```bash
