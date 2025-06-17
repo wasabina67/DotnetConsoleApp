@@ -44,16 +44,28 @@ dotnet --list-sdks
 
 ### Template Instantiation
 
+```bash
 dotnet new console -n DotnetConsoleApp
+```
 
+```bash
 dotnet new console -n DotnetConsoleApp -f net8.0
+```
 
+```bash
 dotnet new gitignore
+```
 
+```bash
 dotnet new globaljson
+```
 
 ### Run
 
+```bash
 dotnet run
+```
 
+```bash
 dotnet watch run
+```
